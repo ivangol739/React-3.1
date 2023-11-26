@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pnvxagujjk5cpkjv?svg=true)](https://ci.appveyor.com/project/ivangol739/react-3-1)
+
 Рейтинг фильмов
 ===
 
